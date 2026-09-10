@@ -1,0 +1,43 @@
+The UAT Physical Guarantee of Navier-Stokes Regularity: From Planck-Scale Finite Bound to R_geom=0.2791 Regularization — Addenda v9.1 in Response to OpenAI Millennium Blow-up Claim (Sep 8, 2026)
+
+
+
+
+
+
+
+
+
+Version 2.0 — 9 Sep 2026 — Update of original work 26 Oct 2025 (11 months prior to OpenAI)
+
+This record is the physical counterpart to the mathematical Millennium problem.
+
+v1.0 (26 Oct 2025) — Original Physical Guarantee:
+We established that quantum gravitational constraints from Loop Quantum Gravity (LQG) impose a maximum energy density rho_max = M_Planck / L_Planck^3 ≈ 5.155e96 kg/m3, yielding a finite absolute bound on fluid velocity |v|_max = sqrt(2 rho_max c^2 / rho_fluid) ≈ 9.6e56 m/s (corrected with c^2) / 1.015e47 m/s (v1 code without c^2). This finitude proves that infinite velocity singularities are physically impossible, providing the physical guarantee that regularity must hold in nature. File: Navier_Stokes.pdf (5 pages), limitación_del_caos_de_Navier_Stokes.py
+
+v2.0 — Addenda v9.1 (9 Sep 2026) — Response to OpenAI announcement Sep 8, 2026:
+On Sep 8, 2026 OpenAI announced a formal mathematical solution claiming finite-time blow-up (Cases C/D Clay) using 1000 agents Euler + 10000 agents Navier-Stokes, 88h, 130B tokens, Lean verification 17h. The mechanism is a vortical filament spiraling inward with axial stretching where total energy remains finite but local energy density → ∞.
+
+Relation:
+- OpenAI: Pure continuum mathematics CAN blow up (mathematical level)
+- UAT (this record): Physical reality CANNOT blow up due to V_min = L_Planck^3 and coherence field Psi
+
+Pure Navier-Stokes -> blow-up possible (OpenAI C/D)
+UAT-regularized Navier-Stokes with V_min = L_P^3 -> |v|_max finite -> smooth
+
+This is not a formal Clay Millennium proof (pure PDE without cutoffs). It is the physical regularization that prevents the mathematical singularity. This distinction is crucial after OpenAI's claim. The work connects to the broader Unified Applied Time Framework: R_geom=0.279182 residual of 8 dephased axes at DeltaTheta=43.515°, k_early=0.967, kappa_crit=1e-78, 2*R_geom=0.558364 projection mass observable / pure resonance, cycle truncated at 348.12° leaving 3.3% arrow-of-time deficit. Where pure continuum diverges, UAT truncates geometrically.
+
+Added files in v2:
+- Addenda_v9_1_NavierStokes_Rgeom.pdf (1 page) linking blow-up to R_geom regularization
+- README_UAT_NavierStokes.md expanded description
+- Note_03_08_2026.pdf Observer's Dilemma (fly 200-250Hz vs human 50-60Hz filter origin)
+- supplementary_script.py simulation human vs fly observing 1000Hz quantum oscillation
+
+GitHub with immutable timestamps proving priority 11 months before OpenAI:
+https://github.com/miguelpercu/The-UAT-Physical-Guarantee-of-Navier-Stokes-Regularity
+Tag v1.0 = 2025-10-26 intact, Tag v2.0/v9.1 = 2026-09-09 with addenda.
+
+Related DOIs: 10.5281/zenodo.17729221 (UAT), 10.5281/zenodo.18210808 (UPC), 10.5281/zenodo.22678424 (Antifrequency)
+ORCID: 0009-0007-1748-3212
+
+Keywords: Navier-Stokes, Millennium Prize, Clay, Blow-up, Regularity, Loop Quantum Gravity, Planck bound, UAT, R_geom, Physical Guarantee, OpenAI
